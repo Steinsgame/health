@@ -7,3 +7,6 @@ Memorial General Hospital (MGH) is a 500-bed regional medical center facing chal
 + Increasing readmission rates
 + Rising operational costs
 + Difficulty in predicting patient volumes for staffing purposes
+
+## Project Goal
+Develop an end-to-end data analytics solution that integrates data from all hospital systems to provide actionable insights for improving operational efficiency, reducing costs, enhancing patient care quality, and implementing predictive capabilities for resource planning.
