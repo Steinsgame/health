@@ -93,6 +93,8 @@ MMDC follows a **Lambda architecture** for data organization:
 - Clinical Measurements Insights
 - Real-Time Streaming Visualizations
 
+Link-https://app.fabric.microsoft.com/reportEmbed?reportId=f0acab3b-10f2-4348-8c47-c6940a5c07c5&autoAuth=true&ctid=ef9387a5-5a07-41ae-9256-4b280857da09
+
 ### **Machine Learning Models**
 
 - **Predicting Healthcare Costs**: Using a **Random Forest model**, MMDC is now able to predict healthcare costs accurately based on patient encounter records, diagnosis information, and resource utilization.
