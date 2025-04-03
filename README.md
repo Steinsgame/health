@@ -148,13 +148,6 @@ Contributions are welcome! Please follow the guidelines in `CONTRIBUTING.md`.
 
 📌 **Include a **``** file in **``
 
----
-
-## 📞 **Support**
-
-For issues, open a ticket in the **GitHub Issues** section.
-
-📌 **Include a **``** file in **``
 
 ---
 
