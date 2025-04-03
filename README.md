@@ -62,7 +62,7 @@ MMDC integrates data from multiple sources:
 - **Batch Data** is loaded into **Bronze Lakehouse** and transformed into **Silver & Gold**.
 - **Streaming Data** flows **directly into Gold** for **real-time analytics**.
 
-📌 **Insert Data Flow Diagram here** <img src="Images/Jada_capstone_arch.png" alt="Jada Capstone Architecture">
+📌 <img src="Images/Jada_capstone_arch.png" alt="Jada Capstone Architecture">
 
 ---
 
@@ -106,7 +106,7 @@ MMDC follows a **Lambda architecture** for data organization:
 - **Forecasting resource utilization.**
 - **Anomaly detection for patient vitals.**
 
-📌 **Insert Power BI Dashboard Screenshot here** (e.g., `docs/images/power_bi_dashboard.png`)
+
 
 ---
 
@@ -114,18 +114,17 @@ MMDC follows a **Lambda architecture** for data organization:
 
 ### **1️⃣ Prerequisites**
 
-- Azure Subscription (Fabric, Data Factory, Event Stream)
-- Power BI (Premium recommended)
+- Azure/Fabric Subscription (Fabric, Data Factory, Event Stream, Fabric Notebooks)
+- Power BI
 - Python 3.8+ for ML Notebooks
 
 ### **2️⃣ Deployment Steps**
 
-1. **Set up Azure Data Factory pipelines**
+1. **Set up Data Factory pipelines**
 2. **Configure Event Stream for IoT data**
 3. **Deploy Lakehouse storage & Notebooks**
 4. **Connect Power BI to Gold Lakehouse**
 
-📌 **Insert Deployment Diagram here** (e.g., `docs/images/deployment_steps.png`)
 
 ---
 
@@ -158,16 +157,6 @@ For issues, open a ticket in the **GitHub Issues** section.
 📌 **Include a **``** file in **``
 
 ---
-
-### ✅ **Next Steps**
-
-Let me know if you’d like:
-
-- More details on any section.
-- Additional diagrams or images.
-- Refinements to the README format.
-
-This is structured for **clarity, completeness, and GitHub best practices**! 🚀
 
 ---
 
