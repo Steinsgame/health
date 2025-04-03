@@ -55,8 +55,8 @@ MMDC integrates data from multiple sources:
 
 | Source              | Type               | Ingestion Method              |
 | ------------------- | ------------------ | ----------------------------- |
-| Google Drive        | Batch (JSON)       | Azure Data Factory            |
-| SQL Server          | Batch (Structured) | Azure Data Factory            |
+| Google Drive        | Batch (JSON)       |  Data Factory            |
+| SQL Server          | Batch (Structured) |  Data Factory            |
 | IoT Medical Devices | Streaming          | Microsoft Fabric Event Stream |
 
 - **Batch Data** is loaded into **Bronze Lakehouse** and transformed into **Silver & Gold**.
