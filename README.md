@@ -15,7 +15,7 @@ Your architecture follows a **modernized Lambda Architecture** with **Medallion 
 - **Streaming Data Flow:** IoT medical data is **processed in real-time** and directly stored in **Gold Lakehouse**.
 - **Consumption Layer:** Power BI (Direct Lake) and Python notebooks provide analytics & machine learning insights.
 
-📌 **Insert the Architecture Diagram here** (e.g., `docs/images/architecture.png`)
+📌 **Insert the Architecture Diagram here** <img src="Images/Jada_capstone_arch.png" alt="Jada Capstone Architecture">
 
 ---
 
@@ -62,13 +62,13 @@ MMDC integrates data from multiple sources:
 - **Batch Data** is loaded into **Bronze Lakehouse** and transformed into **Silver & Gold**.
 - **Streaming Data** flows **directly into Gold** for **real-time analytics**.
 
-📌 **Insert Data Flow Diagram here** (e.g., `docs/images/data_flow.png`)
+📌 **Insert Data Flow Diagram here** <img src="Images/Jada_capstone_arch.png" alt="Jada Capstone Architecture">
 
 ---
 
 ## 🔀 **Data Model & Storage Layers**
 
-MMDC follows a **Medallion architecture** for data organization:
+MMDC follows a **Lambda architecture** for data organization:
 
 ### **Batch Data Layers**
 
@@ -81,7 +81,7 @@ MMDC follows a **Medallion architecture** for data organization:
 - **IoT streaming data goes directly to Gold Lakehouse**.
 - **Event Stream processes and forwards real-time records**.
 
-📌 **Insert Medallion Architecture Diagram here** (e.g., `docs/images/medallion_architecture.png`)
+📌 **Insert Lambda Architecture Diagram here** <img src="Images/Jada_capstone_arch.png" alt="Jada Capstone Architecture">
 
 ---
 
