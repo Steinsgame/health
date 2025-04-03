@@ -1,4 +1,4 @@
-# Meridian Medical Data Center Analytics Transformation
+# Merridian Medical Data Center Analytics Transformation
 ## 📌 Overview
 
 Meridian Medical Data Center (MMDC) is transforming its healthcare data infrastructure with a **modern Lambda Architecture with Medallion Principles** using **Microsoft Fabric**. This project integrates batch and streaming data to provide real-time insights, predictive analytics, and optimized resource management.
